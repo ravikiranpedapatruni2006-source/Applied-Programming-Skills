@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
