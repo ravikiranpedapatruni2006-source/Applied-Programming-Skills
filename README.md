@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
