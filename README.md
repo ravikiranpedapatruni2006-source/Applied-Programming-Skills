@@ -179,16 +179,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 ## Greedy
@@ -198,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
