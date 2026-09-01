@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [1603-design-parking-system](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Sliding Window
 |  |
 | ------- |
