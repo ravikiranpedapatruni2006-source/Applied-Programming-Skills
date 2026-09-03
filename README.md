@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Quicksort
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
@@ -121,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -276,4 +282,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
