@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
