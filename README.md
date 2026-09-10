@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+| [1600-throne-inheritance](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 ## String
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+| [1600-throne-inheritance](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
