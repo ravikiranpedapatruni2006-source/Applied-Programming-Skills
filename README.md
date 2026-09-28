@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0202-happy-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
