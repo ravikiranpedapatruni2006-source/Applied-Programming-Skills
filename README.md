@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
