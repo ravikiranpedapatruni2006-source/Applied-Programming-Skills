@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 ## Hash Table
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravikiranpedapatruni2006-source/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
